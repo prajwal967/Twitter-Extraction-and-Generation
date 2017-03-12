@@ -1,6 +1,6 @@
 # Introduction to Deep Learning for Natural Language Processing (Twitter Data)
 
-This repo accompanies the *Introduction to Deep Learning for Natural Language Processing* workshop to explain the core concepts of deep learning with emphasis on classifying text as the application. `Python` is used
+This repo accompanies the *Introduction to Deep Learning for Natural Language Processing* to explain the core concepts of deep learning with emphasis on classifying text as the application. `Python` is used
  
 ## Overview
 
